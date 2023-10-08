@@ -1,0 +1,785 @@
+{
+  "domains": [
+    {
+      "name": "Afghanistan",
+      "website": "https://af.usembassy.gov"
+    },
+    {
+      "name": "Albania",
+      "website": "https://al.usembassy.gov"
+    },
+    {
+      "name": "Algeria",
+      "website": "https://dz.usembassy.gov"
+    },
+    {
+      "name": "Angola",
+      "website": "https://ao.usembassy.gov"
+    },
+    {
+      "name": "Argentina",
+      "website": "https://ar.usembassy.gov"
+    },
+    {
+      "name": "Armenia",
+      "website": "https://am.usembassy.gov"
+    },
+    {
+      "name": "Australia",
+      "website": "https://au.usembassy.gov"
+    },
+    {
+      "name": "Austria",
+      "website": "https://at.usembassy.gov"
+    },
+    {
+      "name": "Azerbaijan",
+      "website": "https://az.usembassy.gov"
+    },
+    {
+      "name": "Bahamas",
+      "website": "https://bs.usembassy.gov"
+    },
+    {
+      "name": "Bahrain",
+      "website": "https://bh.usembassy.gov"
+    },
+    {
+      "name": "Bangladesh",
+      "website": "https://bd.usembassy.gov"
+    },
+    {
+      "name": "Barbados",
+      "website": "https://bb.usembassy.gov"
+    },
+    {
+      "name": "Belarus",
+      "website": "https://by.usembassy.gov"
+    },
+    {
+      "name": "Belgium",
+      "website": "https://be.usembassy.gov"
+    },
+    {
+      "name": "Belize",
+      "website": "https://bz.usembassy.gov"
+    },
+    {
+      "name": "Benin",
+      "website": "https://bj.usembassy.gov"
+    },
+    {
+      "name": "Bermuda",
+      "website": "https://bm.usconsulate.gov"
+    },
+    {
+      "name": "Bolivia",
+      "website": "https://bo.usembassy.gov"
+    },
+    {
+      "name": "Bosnia & Herzegovina",
+      "website": "https://ba.usembassy.gov"
+    },
+    {
+      "name": "Botswana",
+      "website": "https://bw.usembassy.gov"
+    },
+    {
+      "name": "Brazil",
+      "website": "https://br.usembassy.gov"
+    },
+    {
+      "name": "Brunei",
+      "website": "https://bn.usembassy.gov"
+    },
+    {
+      "name": "Bulgaria",
+      "website": "https://bg.usembassy.gov"
+    },
+    {
+      "name": "Burkina Faso",
+      "website": "https://bf.usembassy.gov"
+    },
+    {
+      "name": "Burma",
+      "website": "https://mm.usembassy.gov"
+    },
+    {
+      "name": "Burundi",
+      "website": "https://bi.usembassy.gov"
+    },
+    {
+      "name": "Cabo Verde",
+      "website": "https://cv.usembassy.gov"
+    },
+    {
+      "name": "Cambodia",
+      "website": "https://kh.usembassy.gov"
+    },
+    {
+      "name": "Cameroon",
+      "website": "https://cm.usembassy.gov"
+    },
+    {
+      "name": "Canada",
+      "website": "https://ca.usembassy.gov"
+    },
+    {
+      "name": "Central African Republic",
+      "website": "https://cf.usembassy.gov"
+    },
+    {
+      "name": "Chad",
+      "website": "https://td.usembassy.gov"
+    },
+    {
+      "name": "Chile",
+      "website": "https://cl.usembassy.gov"
+    },
+    {
+      "name": "China",
+      "website": "https://china.usembassy-china.org.cn"
+    },
+    {
+      "name": "Colombia",
+      "website": "https://co.usembassy.gov"
+    },
+    {
+      "name": "Comoros",
+      "website": "https://km.usembassy.gov"
+    },
+    {
+      "name": "Costa Rica",
+      "website": "https://cr.usembassy.gov"
+    },
+    {
+      "name": "C\u00f4te d\u2019Ivoire",
+      "website": "https://ci.usembassy.gov"
+    },
+    {
+      "name": "Croatia",
+      "website": "https://hr.usembassy.gov"
+    },
+    {
+      "name": "Cuba",
+      "website": "https://cu.usembassy.gov"
+    },
+    {
+      "name": "Curacao",
+      "website": "https://cw.usconsulate.gov"
+    },
+    {
+      "name": "Cyprus",
+      "website": "https://cy.usembassy.gov"
+    },
+    {
+      "name": "Czech Republic",
+      "website": "https://cz.usembassy.gov"
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "website": "https://cd.usembassy.gov"
+    },
+    {
+      "name": "Denmark",
+      "website": "https://dk.usembassy.gov"
+    },
+    {
+      "name": "Djibouti",
+      "website": "https://dj.usembassy.gov"
+    },
+    {
+      "name": "Dominican Republic",
+      "website": "https://do.usembassy.gov"
+    },
+    {
+      "name": "Ecuador",
+      "website": "https://ec.usembassy.gov"
+    },
+    {
+      "name": "Egypt",
+      "website": "https://eg.usembassy.gov"
+    },
+    {
+      "name": "El Salvador",
+      "website": "https://sv.usembassy.gov"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "website": "https://gq.usembassy.gov"
+    },
+    {
+      "name": "Eritrea",
+      "website": "https://er.usembassy.gov"
+    },
+    {
+      "name": "Estonia",
+      "website": "https://ee.usembassy.gov"
+    },
+    {
+      "name": "Eswatini",
+      "website": "https://sz.usembassy.gov"
+    },
+    {
+      "name": "Ethiopia",
+      "website": "https://et.usembassy.gov"
+    },
+    {
+      "name": "Fiji",
+      "website": "https://fj.usembassy.gov"
+    },
+    {
+      "name": "Finland",
+      "website": "https://fi.usembassy.gov"
+    },
+    {
+      "name": "France",
+      "website": "https://fr.usembassy.gov"
+    },
+    {
+      "name": "Gabon",
+      "website": "https://ga.usembassy.gov"
+    },
+    {
+      "name": "Georgia",
+      "website": "https://ge.usembassy.gov"
+    },
+    {
+      "name": "Germany",
+      "website": "https://de.usembassy.gov"
+    },
+    {
+      "name": "Ghana",
+      "website": "https://gh.usembassy.gov"
+    },
+    {
+      "name": "Greece",
+      "website": "https://gr.usembassy.gov"
+    },
+    {
+      "name": "Guatemala",
+      "website": "https://gt.usembassy.gov"
+    },
+    {
+      "name": "Guinea",
+      "website": "https://gn.usembassy.gov"
+    },
+    {
+      "name": "U.S. Virtual Presence in Guinea-Bissau",
+      "website": "https://gw.usmission.gov"
+    },
+    {
+      "name": "Guyana",
+      "website": "https://gy.usembassy.gov"
+    },
+    {
+      "name": "The Gambia",
+      "website": "https://gm.usembassy.gov"
+    },
+    {
+      "name": "Haiti",
+      "website": "https://ht.usembassy.gov"
+    },
+    {
+      "name": "Honduras",
+      "website": "https://hn.usembassy.gov"
+    },
+    {
+      "name": "Hong Kong and Macau",
+      "website": "https://hk.usconsulate.gov"
+    },
+    {
+      "name": "Hungary",
+      "website": "https://hu.usembassy.gov"
+    },
+    {
+      "name": "Iceland",
+      "website": "https://is.usembassy.gov"
+    },
+    {
+      "name": "India",
+      "website": "https://in.usembassy.gov"
+    },
+    {
+      "name": "Indonesia",
+      "website": "https://id.usembassy.gov"
+    },
+    {
+      "name": "Iran",
+      "website": "https://ir.usembassy.gov"
+    },
+    {
+      "name": "Iraq",
+      "website": "https://iq.usembassy.gov"
+    },
+    {
+      "name": "Ireland",
+      "website": "https://ie.usembassy.gov"
+    },
+    {
+      "name": "Israel",
+      "website": "https://il.usembassy.gov"
+    },
+    {
+      "name": "Italy",
+      "website": "https://it.usembassy.gov"
+    },
+    {
+      "name": "Jamaica",
+      "website": "https://jm.usembassy.gov"
+    },
+    {
+      "name": "Japan",
+      "website": "https://jp.usembassy.gov"
+    },
+    {
+      "name": "Jordan",
+      "website": "https://jo.usembassy.gov"
+    },
+    {
+      "name": "Kazakhstan",
+      "website": "https://kz.usembassy.gov"
+    },
+    {
+      "name": "Kenya",
+      "website": "https://ke.usembassy.gov"
+    },
+    {
+      "name": "Korea",
+      "website": "https://kr.usembassy.gov"
+    },
+    {
+      "name": "Kosovo",
+      "website": "https://xk.usembassy.gov"
+    },
+    {
+      "name": "Kuwait",
+      "website": "https://kw.usembassy.gov"
+    },
+    {
+      "name": "Kyrgyz Republic",
+      "website": "https://kg.usembassy.gov"
+    },
+    {
+      "name": "Laos",
+      "website": "https://la.usembassy.gov"
+    },
+    {
+      "name": "Latvia",
+      "website": "https://lv.usembassy.gov"
+    },
+    {
+      "name": "Lebanon",
+      "website": "https://lb.usembassy.gov"
+    },
+    {
+      "name": "Lesotho",
+      "website": "https://ls.usembassy.gov"
+    },
+    {
+      "name": "Liberia",
+      "website": "https://lr.usembassy.gov"
+    },
+    {
+      "name": "Libya",
+      "website": "https://ly.usembassy.gov"
+    },
+    {
+      "name": "Lithuania",
+      "website": "https://lt.usembassy.gov"
+    },
+    {
+      "name": "Luxembourg",
+      "website": "https://lu.usembassy.gov"
+    },
+    {
+      "name": "Madagascar",
+      "website": "https://mg.usembassy.gov"
+    },
+    {
+      "name": "Malawi",
+      "website": "https://mw.usembassy.gov"
+    },
+    {
+      "name": "Malaysia",
+      "website": "https://my.usembassy.gov"
+    },
+    {
+      "name": "Maldives",
+      "website": "https://mv.usmission.gov"
+    },
+    {
+      "name": "Mali",
+      "website": "https://ml.usembassy.gov"
+    },
+    {
+      "name": "Malta",
+      "website": "https://mt.usembassy.gov"
+    },
+    {
+      "name": "Marshall Islands",
+      "website": "https://mh.usembassy.gov"
+    },
+    {
+      "name": "Mauritania",
+      "website": "https://mr.usembassy.gov"
+    },
+    {
+      "name": "Mauritius",
+      "website": "https://mu.usembassy.gov"
+    },
+    {
+      "name": "Mexico",
+      "website": "https://mx.usembassy.gov"
+    },
+    {
+      "name": "Micronesia",
+      "website": "https://fm.usembassy.gov"
+    },
+    {
+      "name": "Moldova",
+      "website": "https://md.usembassy.gov"
+    },
+    {
+      "name": "Mongolia",
+      "website": "https://mn.usembassy.gov"
+    },
+    {
+      "name": "Montenegro",
+      "website": "https://me.usembassy.gov"
+    },
+    {
+      "name": "Morocco",
+      "website": "https://ma.usembassy.gov"
+    },
+    {
+      "name": "Mozambique",
+      "website": "https://mz.usembassy.gov"
+    },
+    {
+      "name": "Namibia",
+      "website": "https://na.usembassy.gov"
+    },
+    {
+      "name": "Nepal",
+      "website": "https://np.usembassy.gov"
+    },
+    {
+      "name": "Netherlands",
+      "website": "https://nl.usembassy.gov"
+    },
+    {
+      "name": "New Zealand",
+      "website": "https://nz.usembassy.gov"
+    },
+    {
+      "name": "Nicaragua",
+      "website": "https://ni.usembassy.gov"
+    },
+    {
+      "name": "Niger",
+      "website": "https://ne.usembassy.gov"
+    },
+    {
+      "name": "Nigeria",
+      "website": "https://ng.usembassy.gov"
+    },
+    {
+      "name": "North Macedonia",
+      "website": "https://mk.usembassy.gov"
+    },
+    {
+      "name": "Norway",
+      "website": "https://no.usembassy.gov"
+    },
+    {
+      "name": "Oman",
+      "website": "https://om.usembassy.gov"
+    },
+    {
+      "name": "Pakistan",
+      "website": "https://pk.usembassy.gov"
+    },
+    {
+      "name": "Palau",
+      "website": "https://pw.usembassy.gov"
+    },
+    {
+      "name": "Palestinian Territories",
+      "website": "https://palestinianaffairs.state.gov"
+    },
+    {
+      "name": "Panama",
+      "website": "https://pa.usembassy.gov"
+    },
+    {
+      "name": "Papua New Guinea",
+      "website": "https://pg.usembassy.gov"
+    },
+    {
+      "name": "Paraguay",
+      "website": "https://py.usembassy.gov"
+    },
+    {
+      "name": "Peru",
+      "website": "https://pe.usembassy.gov"
+    },
+    {
+      "name": "Philippines",
+      "website": "https://ph.usembassy.gov"
+    },
+    {
+      "name": "Poland",
+      "website": "https://pl.usembassy.gov"
+    },
+    {
+      "name": "Portugal",
+      "website": "https://pt.usembassy.gov"
+    },
+    {
+      "name": "Qatar",
+      "website": "https://qa.usembassy.gov"
+    },
+    {
+      "name": "Republic of Congo",
+      "website": "https://cg.usembassy.gov"
+    },
+    {
+      "name": "Romania",
+      "website": "https://ro.usembassy.gov"
+    },
+    {
+      "name": "Russia",
+      "website": "https://ru.usembassy.gov"
+    },
+    {
+      "name": "Rwanda",
+      "website": "https://rw.usembassy.gov"
+    },
+    {
+      "name": "Samoa",
+      "website": "https://ws.usembassy.gov"
+    },
+    {
+      "name": "San Marino",
+      "website": "https://sm.usmission.gov"
+    },
+    {
+      "name": "Saudi Arabia",
+      "website": "https://sa.usembassy.gov"
+    },
+    {
+      "name": "Senegal",
+      "website": "https://sn.usembassy.gov"
+    },
+    {
+      "name": "Serbia",
+      "website": "https://rs.usembassy.gov"
+    },
+    {
+      "name": "Sierra Leone",
+      "website": "https://sl.usembassy.gov"
+    },
+    {
+      "name": "Singapore",
+      "website": "https://sg.usembassy.gov"
+    },
+    {
+      "name": "Slovakia",
+      "website": "https://sk.usembassy.gov"
+    },
+    {
+      "name": "Slovenia",
+      "website": "https://si.usembassy.gov"
+    },
+    {
+      "name": "Solomon Islands",
+      "website": "https://pg.usembassy.gov"
+    },
+    {
+      "name": "Somalia",
+      "website": "https://so.usembassy.gov"
+    },
+    {
+      "name": "South Africa",
+      "website": "https://za.usembassy.gov"
+    },
+    {
+      "name": "South Sudan",
+      "website": "https://ss.usembassy.gov"
+    },
+    {
+      "name": "Spain",
+      "website": "https://es.usembassy.gov"
+    },
+    {
+      "name": "Sri Lanka",
+      "website": "https://lk.usembassy.gov"
+    },
+    {
+      "name": "Sudan",
+      "website": "https://sd.usembassy.gov"
+    },
+    {
+      "name": "Suriname",
+      "website": "https://sr.usembassy.gov"
+    },
+    {
+      "name": "Sweden",
+      "website": "https://se.usembassy.gov"
+    },
+    {
+      "name": "Switzerland",
+      "website": "https://ch.usembassy.gov"
+    },
+    {
+      "name": "Syria",
+      "website": "https://sy.usembassy.gov"
+    },
+    {
+      "name": "American Institute in Taiwan",
+      "website": "https://www.ait.org.tw"
+    },
+    {
+      "name": "Tajikistan",
+      "website": "https://tj.usembassy.gov"
+    },
+    {
+      "name": "Tanzania",
+      "website": "https://tz.usembassy.gov"
+    },
+    {
+      "name": "Thailand",
+      "website": "https://th.usembassy.gov"
+    },
+    {
+      "name": "Timor-Leste",
+      "website": "https://tl.usembassy.gov"
+    },
+    {
+      "name": "Togo",
+      "website": "https://tg.usembassy.gov"
+    },
+    {
+      "name": "Tonga",
+      "website": "https://fj.usembassy.gov"
+    },
+    {
+      "name": "Trinidad & Tobago",
+      "website": "https://tt.usembassy.gov"
+    },
+    {
+      "name": "Tunisia",
+      "website": "https://tn.usembassy.gov"
+    },
+    {
+      "name": "T\u00fcrkiye",
+      "website": "https://tr.usembassy.gov"
+    },
+    {
+      "name": "Turkmenistan",
+      "website": "https://tm.usembassy.gov"
+    },
+    {
+      "name": "Uganda",
+      "website": "https://ug.usembassy.gov"
+    },
+    {
+      "name": "Ukraine",
+      "website": "https://ua.usembassy.gov"
+    },
+    {
+      "name": "United Arab Emirates",
+      "website": "https://ae.usembassy.gov"
+    },
+    {
+      "name": "United Kingdom",
+      "website": "https://uk.usembassy.gov"
+    },
+    {
+      "name": "Uruguay",
+      "website": "https://uy.usembassy.gov"
+    },
+    {
+      "name": "Uzbekistan",
+      "website": "https://uz.usembassy.gov"
+    },
+    {
+      "name": "Vanuatu",
+      "website": "https://pg.usembassy.gov"
+    },
+    {
+      "name": "Venezuela",
+      "website": "https://ve.usembassy.gov"
+    },
+    {
+      "name": "Vietnam",
+      "website": "https://vn.usembassy.gov"
+    },
+    {
+      "name": "Yemen",
+      "website": "https://ye.usembassy.gov"
+    },
+    {
+      "name": "Zambia",
+      "website": "https://zm.usembassy.gov"
+    },
+    {
+      "name": "Zimbabwe",
+      "website": "https://zw.usembassy.gov"
+    },
+    {
+      "name": "U.S. Mission to ASEAN",
+      "website": "https://asean.usmission.gov"
+    },
+    {
+      "name": "U.S. Mission to the African Union",
+      "website": "https://www.usau.usmission.gov"
+    },
+    {
+      "name": "U.S. Mission to the EU",
+      "website": "https://useu.usmission.gov"
+    },
+    {
+      "name": "Holy See",
+      "website": "https://va.usembassy.gov"
+    },
+    {
+      "name": "U.S. Mission to the ICAO",
+      "website": "https://icao.usmission.gov"
+    },
+    {
+      "name": "U.S. Mission to NATO",
+      "website": "https://nato.usmission.gov"
+    },
+    {
+      "name": "U.S. Mission to OSCE",
+      "website": "https://osce.usmission.gov"
+    },
+    {
+      "name": "U.S. Mission to the OAS",
+      "website": "https://usoas.usmission.gov"
+    },
+    {
+      "name": "U.S. Mission to the OECD",
+      "website": "https://usoecd.usmission.gov"
+    },
+    {
+      "name": "U.S. Mission to the UN-Geneva",
+      "website": "https://geneva.usmission.gov"
+    },
+    {
+      "name": "U.S. Mission to the UN-Rome",
+      "website": "https://usunrome.usmission.gov"
+    },
+    {
+      "name": "U.S. Mission to the United Nations",
+      "website": "https://usun.usmission.gov"
+    },
+    {
+      "name": "U.S. Mission to International Organizations in Vienna",
+      "website": "https://vienna.usmission.gov"
+    }
+  ],
+  "updatedOn": "08/10/2023 16:28:35"
+}
