@@ -1,0 +1,56 @@
+name: "Extractor"
+
+on:
+    push:
+    schedule:
+        - cron: '0 0 * * *'  # every day at midnight
+
+permissions:
+    contents: "write"
+
+jobs:
+    extract:
+        runs-on: "ubuntu-latest"
+
+        steps:
+            - name: "Checkout Repository"
+              uses: "actions/checkout@v4"
+
+            - name: "Reactivate Repository"
+              uses: "custom-workflows/reactivate@latest"
+              with: 
+                commit_message: "github-actions: Reactivate repository"
+                committer_username: "GitHub Actions [Bot]"
+                committer_email: "github-actions[bot]@users.noreply.github.com"
+                days_elapsed: 50
+
+            - name: "Setup Python"
+              uses: "actions/setup-python@v4"
+              with:
+                python-version: "3.10"
+                cache: "pip"
+            
+            - name: "Install Dependencies"
+              shell: "bash"
+              run: "pip install -r requirements.txt"
+
+            - name: "Execute Extractor [python]"
+              shell: "bash"
+              run: "python ./extractor.py"
+
+            - name: "Update './current.json' [git]"
+              shell: "bash"
+              env:
+                GITHUB_TOKEN: ${{ github.token }}
+              run: |
+                # Define Current Date
+                current_date=$(date '+%Y-%m-%d')
+
+                git config --global user.name "GitHub Actions [Bot]"
+                git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY
+
+                git add current.json                
+                git commit -s -m "current.json: update [$current_date]" || exit 0
+
+                git push
